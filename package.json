@@ -16,7 +16,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.76.1",
     "drizzle-orm": "^0.44.5",
-    "next": "15.2.5",
+    "next": "15.4.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
